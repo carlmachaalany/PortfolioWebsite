@@ -19,7 +19,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 	
-	Person who provided me with template code: 
+	Person providing me with template code: 
 		Camilla Sophie Djamalov 
 	
 	Demo Images:
