@@ -1530,6 +1530,10 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		#main #freelance_projects {
+			width: 50rem;
+		}
+
 		/* #main #about {
 			width: 50rem;
 		} */
@@ -1650,3 +1654,4 @@ input, select, textarea {
 		border-radius: 50px; 
 		opacity: 0.1;
 	}
+
